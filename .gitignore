@@ -1,0 +1,8 @@
+#忽略target目录
+target/
+
+#忽略测试目录
+test/
+
+#忽略日志文件
+*.log
